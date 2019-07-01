@@ -9,5 +9,6 @@ Es completamente necesario el archivo de configuración para su ejecución
 	en hexadecimal, seguido de algun espacio, despues la etiqueta 'size=' al
 	tamanio del archivo	resultante en KB, MB o GB y el tipo de archivo.
 	ej: 
-	\x89\x50\x4e\x47\x0d\x0a\x1a\x0a	size=1MB PNG
+	
+	> \x89\x50\x4e\x47\x0d\x0a\x1a\x0a	size=1MB PNG
 
