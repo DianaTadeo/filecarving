@@ -1,0 +1,11 @@
+#configuration file
+* Image : gif, png, jpg 
+#\x47\x49\x46\x38\x37\x61	size=10MB GIF
+\x89\x50\x4e\x47\x0d\x0a\x1a\x0a size=1MB PNG
+\xff\xd8\xff\xe0\x00\x10	size=200KB JPG
+\xff\xd8\xff\xdb	size=200KB JPG
+\xff\xd8\xff\xee	size=200KB JPG
+* Compress : zip
+\x50\x4b\x03\x04			size=10MB ZIP
+* Executable : exe
+\x4d\x5a\x90\x00			size=10MB EXE
